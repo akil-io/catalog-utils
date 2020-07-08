@@ -1,0 +1,15 @@
+{
+  "name": "catalog-utils",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:akil-io/catalog-utils.git",
+  "author": "fenix <fenixdeveloper@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "glob": "^7.1.6",
+    "lodash": "^4.17.15",
+    "sharp": "^0.25.4",
+    "xlsx": "^0.16.3"
+  }
+}
